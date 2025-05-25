@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\BooksManager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooksManager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\Services\\BookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\BookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\dotnet.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\Repositories\\IBookRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\IBookRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\BooksManager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooksManager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +58,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "tasks.vs.json",
+              "DocumentMoniker": "C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\.vs\\tasks.vs.json",
+              "RelativeDocumentMoniker": ".vs\\tasks.vs.json",
+              "ToolTip": "C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\.vs\\tasks.vs.json",
+              "RelativeToolTip": ".vs\\tasks.vs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T21:37:07.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "dotnet.yml",
               "DocumentMoniker": "C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\.github\\workflows\\dotnet.yml",
               "RelativeDocumentMoniker": ".github\\workflows\\dotnet.yml",
@@ -66,25 +83,24 @@
               "RelativeToolTip": ".github\\workflows\\dotnet.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-05-25T19:40:41.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T19:40:41.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "BooksManager.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\BooksManager.csproj",
               "RelativeDocumentMoniker": "BooksManager.csproj",
               "ToolTip": "C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\BooksManager.csproj",
               "RelativeToolTip": "BooksManager.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-25T18:53:01.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -97,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AddYearToBooks.cs",
               "DocumentMoniker": "C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\Migrations\\AddYearToBooks.cs",
               "RelativeDocumentMoniker": "Migrations\\AddYearToBooks.cs",
@@ -105,12 +121,11 @@
               "RelativeToolTip": "Migrations\\AddYearToBooks.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T18:49:50.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T18:49:50.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\Migrations\\InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\InitialCreate.cs",
@@ -118,12 +133,11 @@
               "RelativeToolTip": "Migrations\\InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T18:49:42.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T18:49:42.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "Services\\BookService.cs",
@@ -136,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IBookService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\Services\\IBookService.cs",
               "RelativeDocumentMoniker": "Services\\IBookService.cs",
@@ -144,12 +158,11 @@
               "RelativeToolTip": "Services\\IBookService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T18:49:20.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T18:49:20.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
@@ -157,12 +170,11 @@
               "RelativeToolTip": "Repositories\\BookRepository.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T18:49:09.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T18:49:09.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\Repositories\\IBookRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IBookRepository.cs",
@@ -170,12 +182,11 @@
               "RelativeToolTip": "Repositories\\IBookRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T18:48:52.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T18:48:52.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
@@ -183,12 +194,11 @@
               "RelativeToolTip": "Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T18:48:42.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T18:48:42.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Music\\\u0410\u0440\u0445\u0456\u0442\u0435\u043A\u0442\u0443\u0440\u0430\\Lab2\\BooksManager\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
@@ -196,8 +206,7 @@
               "RelativeToolTip": "Controllers\\BooksController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T18:48:26.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T18:48:26.852Z"
             }
           ]
         }
